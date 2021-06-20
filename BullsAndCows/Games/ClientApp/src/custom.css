@@ -1,0 +1,62 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn {
+  margin: 0.5rem;
+}
+
+.bac-page {
+  text-align: center;
+  background: linear-gradient(to right, #faf2fc, #e9f4fd);
+  margin: auto;
+  border: 1px solid red;
+}
+
+.information {
+  border-left: #E01A76 solid 1px;
+  text-align: justify;
+}
+
+.section {
+  margin-right: 1rem;
+}
+
+.topic {
+  text-align: center;
+  margin: 1rem;
+}
+
+.mt5 {
+  margin-top: 0.5rem;
+}
+
+.mt20 {
+  margin-top: 2rem;
+}
+
+.mb5 {
+  margin-bottom: 0.5rem;
+}
+
+.ml5 {
+  margin-left: 0.5rem;
+}
+
+.mr5 {
+  margin-right: 0.5rem;
+}
+
+.display-box {
+  text-align: left;
+  width:100%;
+  height: 20rem;
+  background-color: white;
+  border: 1px solid red;
+  overflow: auto;
+}
